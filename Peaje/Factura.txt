@@ -13,13 +13,3 @@ NIT: 830.054.539-0
 Fiduciaria Bancolombia S.A.
 SOCIEDAD FIDUCIARIA
 
-textoUsuario->PasswordChar = '*'; // Se cambia el formato para que solo aparezca asteriscos cuando se escriba el usuario
-
-#include menu0
-if (this->textoUsuario->Text == "user123") {     
-	Peaje::Menu0^ menu0 = gcnew Peaje::Menu0();  
-	this->Visible = false;                       
-	menu0->ShowDialog();                        
-	this->Visible = true;  
-
-AIzaSyDydJ1Akd_MFRQBGChKtLvnRctsdiTd-vI
