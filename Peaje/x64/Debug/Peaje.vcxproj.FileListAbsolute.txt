@@ -1,0 +1,5 @@
+C:\Users\julia\source\repos\Peaje\Peaje\x64\Debug\Peaje.vcxproj.AssemblyReference.cache
+C:\Users\julia\source\repos\Peaje\Peaje\x64\Debug\Peaje.Form1.resources
+C:\Users\julia\source\repos\Peaje\Peaje\x64\Debug\Peaje.vcxproj.GenerateResource.cache
+C:\Users\julia\source\repos\Peaje\Peaje\x64\Debug\Peaje.Menu0.resources
+C:\Users\julia\source\repos\Peaje\Peaje\x64\Debug\Peaje.Factura0.resources
